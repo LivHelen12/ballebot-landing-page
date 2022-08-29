@@ -1,4 +1,4 @@
-# Stopwatcher
+# Ballebot
 
 ![Badge](https://img.shields.io/github/issues/LivHelen12/stopwatcher)
 ![Badge](https://img.shields.io/github/license/LivHelen12/stopwatcher)
